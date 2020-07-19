@@ -1,0 +1,3 @@
+# Project exclude paths
+/FlumeTest/target/
+/Log4j_Test/target/
